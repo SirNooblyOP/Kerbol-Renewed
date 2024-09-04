@@ -1,8 +1,8 @@
-# Kerbol Renewed v0.1.0 (W.I.P.)
+# Kerbol System Renewed v0.1.1 (W.I.P.)
 
 ### About
 
-Kerbol Renewed is a mod that moves around stock celestial bodies to be similar to our solar system, including changing the orbital inclination of planets and eccentricity for a more true to life and challenging experience. In this process i've had the need to implement a new gas giant beyond Jool to better accommodate the already existing celestials bodies.
+Kerbol System Renewed is a mod that moves around stock celestial bodies to be similar to our solar system, including changing the orbital inclination of planets and eccentricity for a more true to life and challenging experience. In this process i've had the need to implement a new gas giant beyond Jool to better accommodate the already existing celestials bodies.
 
 This is my first mod and post on the forums, but i've been playing KSP for 7 years. I plan to add more features as i learn, listed below.
 
@@ -25,14 +25,7 @@ All stock celestial bodies keep their original size and characteristics for game
 
 ### Planned features
 
-* Kerbol retexture, corona and sunflare.
-* Eve retexture, making it more Venus alike, whiteish/yellow atmosphere, orangeish/brown * surface and water.
-* Duna retexture making it less red and smaller ice caps.
-* Dres retexture similar to KSP2 and adding thin rings.
-* Laythe denser clounds with yellowish tint.
-* Minmus retexture surface and geiser style jets.
-* Jool retexture to appear more like Jupiter, light colors most likely and thin ring.
-* Adding support for EVE volumetrics to Juni.
+* W.I.P
 
 ### Instalation
 
@@ -45,12 +38,12 @@ All stock celestial bodies keep their original size and characteristics for game
 
 ### Changelog
 
-v0.1.0
+v0.1.1
 
-* Initial release.
+* Changed the name to better identify the mod.
 
 ### License
 
-Kerbol Renewed Mod © 2024 by 'Noobly' is licensed under CC BY-NC 4.0 
+Kerbol System Renewed Mod © 2024 by 'Noobly' is licensed under CC BY-NC 4.0 
 
 ​

@@ -1,4 +1,4 @@
-The "Kerbol Renewed Mod" is licensed under the following license:
+The "Kerbol System Renewed Mod" is licensed under the following license:
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
