@@ -1,4 +1,4 @@
-# Kerbol System Renewed v0.2.0
+# Kerbol System Renewed v0.3.0 Volumetric cloud support!
 
 ### About
 
@@ -26,7 +26,7 @@ All stock celestial bodies keep their original size and characteristics for game
 
 ### Planned features
 
-* Juni rework and volumetric support
+* Juni rework
 * Adding thin ring to Jool.
 * Minmus volumetric geyser jets.
 * Laythe denser cloud coverage.
@@ -43,20 +43,12 @@ All stock celestial bodies keep their original size and characteristics for game
 
 ### Changelog
 
-v0.2.0
+v0.3.0
 
-* Changed the Mean Anomaly Epoch to calculate in degrees not radians.
-* Moho now into a 3:2 spin-orbit resonance.
-* Eve now rotates retrograde with a day lasting more than 1 Eve year (350d vs 348d).
-* Duna now has same rotation as Kerbin +1 hour 38min.
-* Gilly now tidally locked to Duna.
-* Dres now has a rotation period of 2h 20min.
-* Jool now has a rotation period of 1h.
-* All of Jool's moons now tidally locked.
-* Juni now has a rotation period of 1h 56min.
-* All of Juni's moons now tidally locked.
-* Ike and Bop now are tidally locked to each other.
-* Minor bugs resolved.
+* Added Scatterer support for Juni.
+* Added Blackrack's Volumetrics support for Juni.
+* Small rework on Juni's texture.
+* Rework of Juni's ring.
 
 ### License
 

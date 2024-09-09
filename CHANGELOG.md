@@ -1,4 +1,11 @@
-# Kerbol System Renewed Mod Changelog v0.2.0
+# Kerbol System Renewed Mod Changelog v0.3.0
+
+### Kerbol System Renewed Mod v0.3.0
+
+- Added Scatterer support for Juni.
+- Added Blackrack's Volumetrics support for Juni.
+- Small rework on Juni's texture.
+- Rework of Juni's ring.
 
 ### Kerbol System Renewed Mod v0.2.0
 
